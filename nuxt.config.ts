@@ -7,8 +7,7 @@ export default defineNuxtConfig({
         '@nuxt/image',
         'nuxt-simple-sitemap',
         'nuxt-simple-robots',
-        'nuxt-gtag',
-        'nuxt-security'
+        'nuxt-gtag'
     ],
     site: {
         url: 'https://illigirl.net/',
