@@ -11,7 +11,7 @@ export default defineNuxtConfig({
         'nuxt-security'
     ],
     site: {
-        url: 'https://illigirl.com/',
+        url: 'https://illigirl.net/',
     },
     sitemap: {
         strictNuxtContentPaths: true,
