@@ -1,6 +1,6 @@
 <script setup>
-    const site_url = ref("https://illigirl.com/")
-    const site_name = ref("illigirl.com")
+    const site_url = ref("https://illigirl.net/")
+    const site_name = ref("illigirl.net")
     const q = ref("")
     const btnSearch = () =>{
         navigateTo(`/porn/${q.value}`);
