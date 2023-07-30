@@ -1,0 +1,15 @@
+# root directory
+robots.txt
+# asset folders
+assets/ 
+├── robots.txt
+# pages folder
+pages/
+├── robots.txt
+├── _dir/
+│   └── robots.txt
+# public folder
+public/
+├── _robots.txt
+├── _dir/
+│   └── robots.txt
